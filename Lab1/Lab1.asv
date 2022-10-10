@@ -1,0 +1,7 @@
+clear all;
+close all;
+
+th1 = 3.1;  %kg*m^2
+th2 = 9.5;  %kg*m
+th3 = 0.24; $
+th4 = pi/4;
